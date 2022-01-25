@@ -10,4 +10,4 @@ mod 'puppetlabs/concat',  '7.0.1'
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
 mod 'apache',
   git:    'git@github.com:Marquesledivan/puppetlabs-apache.git',
-  branch: 'main'
+  branch: 'production'
