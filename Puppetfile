@@ -5,6 +5,8 @@ forge 'https://forge.puppet.com'
 mod 'puppetlabs/inifile', '5.0.1'
 mod 'puppetlabs/stdlib',  '7.0.1'
 mod 'puppetlabs/concat',  '7.0.1'
+mod 'fen9li-helloworld', '0.1.1'
+
 
 # Modules from Git
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
